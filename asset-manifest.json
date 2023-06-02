@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.d2336daf.css",
-    "main.js": "/portfolio/static/js/main.c4809915.js",
+    "main.css": "/portfolio/static/css/main.70c4d99d.css",
+    "main.js": "/portfolio/static/js/main.e22fc6ac.js",
     "static/media/PROYECT SOAPURE 2023-3.png": "/portfolio/static/media/PROYECT SOAPURE 2023-3.8555818c5c78ecdffc62.png",
     "static/media/PROYECT SOAPURE 2023-7.png": "/portfolio/static/media/PROYECT SOAPURE 2023-7.2776ed7fd4fda5d1b319.png",
     "static/media/PROYECT CASA CAURA-1.png": "/portfolio/static/media/PROYECT CASA CAURA-1.263a80b057a54fa4a7d2.png",
     "static/media/Foto.jpg": "/portfolio/static/media/Foto.878103a8dedc3333bcec.jpg",
     "index.html": "/portfolio/index.html",
-    "main.d2336daf.css.map": "/portfolio/static/css/main.d2336daf.css.map",
-    "main.c4809915.js.map": "/portfolio/static/js/main.c4809915.js.map"
+    "main.70c4d99d.css.map": "/portfolio/static/css/main.70c4d99d.css.map",
+    "main.e22fc6ac.js.map": "/portfolio/static/js/main.e22fc6ac.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2336daf.css",
-    "static/js/main.c4809915.js"
+    "static/css/main.70c4d99d.css",
+    "static/js/main.e22fc6ac.js"
   ]
 }
