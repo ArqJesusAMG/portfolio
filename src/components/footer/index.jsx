@@ -15,25 +15,25 @@ const Footer = () => {
                 <label>
                   <i className="bx bxs-phone"></i>Phone:
                 </label>
-                <p>+584121938935</p>
+                <p>+584124274922</p>
               </div>
               <div className="list text-start">
                 <label>
                   <i className="bx bxl-google"></i> Email:
                 </label>
                 <p>
-                  <a href="mailto:danielgarrido425@gmail.com?Subject=Interesado%20en%20su%20servicio">danielgarrido425@gmail.com</a>
+                  <a href="mailto:jesusamg1997@gmail.com?Subject=Interesado%20en%20su%20servicio">jesusamg1997@gmail.com</a>
                 </p>
               </div>
             </div>
           </div>
         </Container>
       </footer>
-      <section className="copyright">
+      <div className="copyright">
         <Container>
-          <p>Daniel Martinez 2021 &copy; All rights reserved</p>
+          <p>Jesus 2023 &copy; All rights reserved</p>
         </Container>
-      </section>
+      </div>
     </div>
   );
 };
